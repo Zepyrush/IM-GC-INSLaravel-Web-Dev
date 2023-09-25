@@ -1,0 +1,5 @@
+Motivasi saya untuk mengikuti bootcamp ini adalah untuk meningkatkan keterampilan saya dalam pengembangan perangkat lunak.
+Saya berharap bahwa bootcamp ini akan memberi saya pemahaman yang mendalam tentang Laravel, keterampilan yang diperlukan
+untuk mengembangkan aplikasi web yang canggih, dan juga peluang untuk berkolaborasi dengan sesama pengembang yang berbakat.
+Dengan harapan ini, saya berencana untuk meningkatkan karir saya dalam dunia pengembangan web, mengambil proyek-proyek 
+yang lebih menantang, dan pada akhirnya, berkontribusi dalam membangun solusi teknologi yang inovatif dan bermanfaat bagi masyarakat.
